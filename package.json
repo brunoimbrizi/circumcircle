@@ -13,14 +13,17 @@
     "@babel/core": "^7.12.3",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
-    "load-svg": "^1.0.0",
     "tinyify": "^3.0.0"
   },
   "scripts": {
     "demo": "budo demo/:bundle.js --live --dir demo/",
     "build": "browserify demo/index.js -t babelify -p tinyify -o demo/bundle.js"
   },
-  "keywords": [],
+  "keywords": [
+    "circumcircle",
+    "circumcenter",
+    "circumradius"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/brunoimbrizi/circumcircle.git"
