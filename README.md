@@ -3,6 +3,8 @@ circumcircle
 
 Fast algorithm to calculate the circumcircle of a 2D triangle.
 
+[![demo](https://user-images.githubusercontent.com/880280/98715483-23e71700-2382-11eb-9026-65e09b46ff50.png)](https://brunoimbrizi.github.io/circumcircle/demo/index.html)
+
 ## Install
 ```
 npm install circumcircle
@@ -23,7 +25,7 @@ Output:
 
 ## Demo
 
-[circumcircle demo](https://brunoimbrizi.github.io/circumcircle/demo/)
+[circumcircle demo](https://brunoimbrizi.github.io/circumcircle/demo/index.html)
 
 ## Usage
 
